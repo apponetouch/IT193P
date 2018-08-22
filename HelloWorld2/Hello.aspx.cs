@@ -11,7 +11,7 @@ namespace HelloWorld2
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            txtb.Text = "Hello World and Universe";
+            txtb.Text = "Hello World and the Universe"; 
         }
     }
 }
